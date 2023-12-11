@@ -17,7 +17,7 @@ This gives an indepth description of some specific deadlines & examples that may
 - Windows 10</b> (21H2)
 
 
-<h2>Part 4: Tickets and Ticket Lifecycle</h2>
+<h2>Part 3: Tickets and Ticket Lifecycle</h2>
 
 Explore ticket examples:
    - Sev-A (1 hour, 24/7): The entire mobile/online banking system is down. Assign to SysAdmins.
